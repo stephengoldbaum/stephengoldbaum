@@ -1,7 +1,7 @@
 ### Presentations
 
-(Databricks Financial Services Symposium 2022 - Keynote)[https://vimeo.com/690704587]
-(Databricks Financial Services Symposium 2022 - Highlights)[https://www.databricks.com/wp-content/uploads/2022/04/databricks-finservices-symposium-highlights.pdf]
+* [Databricks Financial Services Symposium 2022 - Keynote](https://vimeo.com/690704587)
+* [Databricks Financial Services Symposium 2022 - Highlights](https://www.databricks.com/wp-content/uploads/2022/04/databricks-finservices-symposium-highlights.pdf)
 
 
 ### Papers
